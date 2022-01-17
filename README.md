@@ -1,0 +1,2 @@
+# UnityBlender
+Blenderで作ったモデルをUnityへインポートする練習
