@@ -1,2 +1,7 @@
 
 *.blend1
+*.bin
+*.log
+*.dwlt
+UnityBlender/Library/Artifacts/*
+UnityBlender/Library/PackageCache/*
