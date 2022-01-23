@@ -4,6 +4,7 @@ Blenderで作ったモデルをUnityへインポートする練習
 # 実際にインポートしたモデル
 ## 本棚(https://www.youtube.com/watch?v=8uwguOunZK0)
 ![image](https://user-images.githubusercontent.com/22285365/150627673-5f388fea-f418-417f-9a46-3dc40fa5dada.png)
+![image](https://user-images.githubusercontent.com/22285365/150663791-0a4e81dd-09a9-468f-b12d-f061f2036759.png)
 
 # 参考URL
 - モデリングの勉強の進め方
@@ -12,4 +13,5 @@ https://www.kikuhi-movie.com/entry/3dcg-designer-Modeler-_practice#%E3%83%A2%E3%
 
 - BlenderからUnityへ
 
-https://jp.renderpool.net/blog/how-to-import-unity-to-blender#BlenderUnity3D
+https://bluebirdofoz.hatenablog.com/entry/2019/02/20/052612
+https://bluebirdofoz.hatenablog.com/entry/2019/02/21/003516
