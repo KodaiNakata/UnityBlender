@@ -6,6 +6,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/150627673-5f388fea-f418-417f-9a46-3dc40fa5dada.png)
 ![image](https://user-images.githubusercontent.com/22285365/150663791-0a4e81dd-09a9-468f-b12d-f061f2036759.png)
 
+## タンス(https://www.youtube.com/watch?v=VHZxWuJUyxE)
+
 # 参考URL
 - モデリングの勉強の進め方
 
