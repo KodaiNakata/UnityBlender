@@ -14,7 +14,7 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/153559201-0eee6117-0f38-46ff-ac8f-298e0425af18.png)
 ![image](https://user-images.githubusercontent.com/22285365/153559093-7177a3ca-23cd-4ec4-af42-d9e1a1b97b6e.png)
 
-## 宝箱（https://www.youtube.com/watch?v=rB649cP63rI）
+## 宝箱（https://www.youtube.com/watch?v=xDkXj31j1p4）
 
 # 参考URL
 - モデリングの勉強の進め方
