@@ -19,6 +19,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/154053140-385ecb66-58f7-48c1-91ab-5ab9eff6e8a8.png)
 
 ## スプーン（https://www.youtube.com/watch?v=9PFgDHBSxHo）
+![image](https://user-images.githubusercontent.com/22285365/154675193-3d9a95aa-c10e-4404-8854-9b27faa914f6.png)
+![image](https://user-images.githubusercontent.com/22285365/154675231-8bf1d565-efe1-4160-8bee-6b2804981525.png)
 
 # 参考URL
 - モデリングの勉強の進め方
