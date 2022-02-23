@@ -23,7 +23,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/154675231-8bf1d565-efe1-4160-8bee-6b2804981525.png)
 
 ## フォーク（https://www.youtube.com/watch?v=q9xfSzKfuH4）
-
+![image](https://user-images.githubusercontent.com/22285365/155270970-03bffd3b-40d3-4fb6-b171-7411282f1bad.png)
+![image](https://user-images.githubusercontent.com/22285365/155271027-55921b75-153a-42a5-853f-1b58d23a3506.png)
 
 # 参考URL
 - モデリングの勉強の進め方
