@@ -26,6 +26,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/155270970-03bffd3b-40d3-4fb6-b171-7411282f1bad.png)
 ![image](https://user-images.githubusercontent.com/22285365/155271027-55921b75-153a-42a5-853f-1b58d23a3506.png)
 
+## ディナーナイフ（動画を見ずに作成）
+
 # 参考URL
 - モデリングの勉強の進め方
 
