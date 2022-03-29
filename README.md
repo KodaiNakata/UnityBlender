@@ -34,6 +34,9 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/160387276-c9d6d74b-a369-4291-b711-5e74d702fcff.png)
 ![image](https://user-images.githubusercontent.com/22285365/160387138-621d45e0-d9a2-45c2-ae65-ae915638ff3b.png)
 
+## 人（https://www.youtube.com/watch?v=5SmolvKQPrY）
+
+
 # 参考URL
 - モデリングの勉強の進め方
 
