@@ -38,6 +38,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/166342450-e2e1bdf7-054c-48ca-b812-bdd83b3eac34.png)
 ![image](https://user-images.githubusercontent.com/22285365/166343208-d7e6044d-4fa2-4ccd-95df-505bd438778f.png)
 
+## 犬（https://www.youtube.com/watch?v=k5x1I6gwpiU）
+
 # 参考URL
 - モデリングの勉強の進め方
 
