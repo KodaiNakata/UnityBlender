@@ -41,7 +41,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 ## 犬（https://www.youtube.com/watch?v=k5x1I6gwpiU）
 （ボーン：https://www.youtube.com/watch?v=7DClegc4SZ0&t=364s）
 （IK：https://www.youtube.com/watch?v=SXD0rmpYIWo）
-（アニメーション：https://www.youtube.com/watch?v=02yENu82rIU）
+（歩きアニメーション：https://www.youtube.com/watch?v=02yENu82rIU）
+（走るアニメーション：https://www.youtube.com/watch?v=6uB2a2K6HGI）
 
 # 参考URL
 - モデリングの勉強の進め方
