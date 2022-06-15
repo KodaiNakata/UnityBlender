@@ -44,6 +44,7 @@ Blenderで作ったモデルをUnityへインポートする練習
 （歩きアニメーション：https://www.youtube.com/watch?v=02yENu82rIU）
 （走るアニメーション：https://www.youtube.com/watch?v=6uB2a2K6HGI）
 （お座りアニメーション：https://www.google.com/search?q=%E7%8A%AC+%E3%81%8A%E5%BA%A7%E3%82%8A+%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0&sxsrf=ALiCzsYzPZrNFTYhQsEcV5RYf7eA5UPpNg:1654910355835&source=lnms&tbm=isch&sa=X&ved=2ahUKEwip25O_naT4AhWRe94KHQ3MD3AQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=yxBp9U96I2fP-M）
+（待てアニメーション：URLなし）
 
 # 参考URL
 - モデリングの勉強の進め方
