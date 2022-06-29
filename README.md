@@ -41,15 +41,14 @@ Blenderで作ったモデルをUnityへインポートする練習
 ## 犬（https://www.youtube.com/watch?v=k5x1I6gwpiU）
 （ボーン：https://www.youtube.com/watch?v=7DClegc4SZ0&t=364s）
 （IK：https://www.youtube.com/watch?v=SXD0rmpYIWo）
-（歩きアニメーション：https://www.youtube.com/watch?v=02yENu82rIU）
-（走るアニメーション：https://www.youtube.com/watch?v=6uB2a2K6HGI）
-（お座りアニメーション：https://www.google.com/search?q=%E7%8A%AC+%E3%81%8A%E5%BA%A7%E3%82%8A+%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0&sxsrf=ALiCzsYzPZrNFTYhQsEcV5RYf7eA5UPpNg:1654910355835&source=lnms&tbm=isch&sa=X&ved=2ahUKEwip25O_naT4AhWRe94KHQ3MD3AQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=yxBp9U96I2fP-M）
-（待てアニメーション：URLなし）
-（濡れた後に暴れるアニメーション：https://www.google.com/search?q=%E7%8A%AC+%E3%81%8A%E9%A2%A8%E5%91%82%E4%B8%8A%E3%81%8C%E3%82%8A+%E6%9A%B4%E3%82%8C%E3%82%8B&sxsrf=ALiCzsbXCeE60wvsHmjCooMgeo2tkDOi-Q:1655476297484&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-yJTl2bT4AhXFgFYBHe_CBh4Q_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1）
-（背伸びするアニメーション：https://www.google.com/search?q=%E7%8A%AC+%E8%83%8C%E4%BC%B8%E3%81%B3&sxsrf=ALiCzsZxuobmpyJRcNi2OBfCWvcFd_sPSw:1655736424100&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjRvJnrorz4AhWRCt4KHUBKDDsQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1）
+（歩きアニメーション：https://user-images.githubusercontent.com/22285365/176421429-97ee9564-dcca-44ab-8ea8-279535821e57.mp4）
+（走るアニメーション：https://user-images.githubusercontent.com/22285365/176421382-abf154ba-01fb-4008-bef9-e37e09136eae.mp4）
+（お座りアニメーション：https://user-images.githubusercontent.com/22285365/176421296-dd6c952c-b56e-4015-a94c-5e0b4c922cd6.mp4）
+（待てアニメーション：https://user-images.githubusercontent.com/22285365/176421223-8bc95038-4ec7-47aa-a351-a40cf86940e3.mp4）
+（濡れた後に暴れるアニメーション：https://user-images.githubusercontent.com/22285365/176421143-b2841ca1-9a78-4bae-a072-6f23727fb322.mp4）
+（背伸びするアニメーション：https://user-images.githubusercontent.com/22285365/176420835-7602f785-59f3-4e75-b4ad-ebd24c038a55.mp4）
 
 ![image](https://user-images.githubusercontent.com/22285365/176420785-afa01c43-e667-4bfb-939d-4357ff9e8d1c.png)
-https://user-images.githubusercontent.com/22285365/176420835-7602f785-59f3-4e75-b4ad-ebd24c038a55.mp4
 
 # 参考URL
 - モデリングの勉強の進め方
