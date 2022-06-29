@@ -48,6 +48,9 @@ Blenderで作ったモデルをUnityへインポートする練習
 （濡れた後に暴れるアニメーション：https://www.google.com/search?q=%E7%8A%AC+%E3%81%8A%E9%A2%A8%E5%91%82%E4%B8%8A%E3%81%8C%E3%82%8A+%E6%9A%B4%E3%82%8C%E3%82%8B&sxsrf=ALiCzsbXCeE60wvsHmjCooMgeo2tkDOi-Q:1655476297484&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-yJTl2bT4AhXFgFYBHe_CBh4Q_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1）
 （背伸びするアニメーション：https://www.google.com/search?q=%E7%8A%AC+%E8%83%8C%E4%BC%B8%E3%81%B3&sxsrf=ALiCzsZxuobmpyJRcNi2OBfCWvcFd_sPSw:1655736424100&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjRvJnrorz4AhWRCt4KHUBKDDsQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1）
 
+![image](https://user-images.githubusercontent.com/22285365/176420785-afa01c43-e667-4bfb-939d-4357ff9e8d1c.png)
+https://user-images.githubusercontent.com/22285365/176420835-7602f785-59f3-4e75-b4ad-ebd24c038a55.mp4
+
 # 参考URL
 - モデリングの勉強の進め方
 
