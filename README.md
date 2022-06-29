@@ -40,12 +40,19 @@ Blenderで作ったモデルをUnityへインポートする練習
 
 ## 犬（https://www.youtube.com/watch?v=k5x1I6gwpiU）
 （ボーン：https://www.youtube.com/watch?v=7DClegc4SZ0&t=364s）
+
 （IK：https://www.youtube.com/watch?v=SXD0rmpYIWo）
+
 （歩きアニメーション：https://user-images.githubusercontent.com/22285365/176421429-97ee9564-dcca-44ab-8ea8-279535821e57.mp4）
+
 （走るアニメーション：https://user-images.githubusercontent.com/22285365/176421382-abf154ba-01fb-4008-bef9-e37e09136eae.mp4）
+
 （お座りアニメーション：https://user-images.githubusercontent.com/22285365/176421296-dd6c952c-b56e-4015-a94c-5e0b4c922cd6.mp4）
+
 （待てアニメーション：https://user-images.githubusercontent.com/22285365/176421223-8bc95038-4ec7-47aa-a351-a40cf86940e3.mp4）
+
 （濡れた後に暴れるアニメーション：https://user-images.githubusercontent.com/22285365/176421143-b2841ca1-9a78-4bae-a072-6f23727fb322.mp4）
+
 （背伸びするアニメーション：https://user-images.githubusercontent.com/22285365/176420835-7602f785-59f3-4e75-b4ad-ebd24c038a55.mp4）
 
 ![image](https://user-images.githubusercontent.com/22285365/176420785-afa01c43-e667-4bfb-939d-4357ff9e8d1c.png)
