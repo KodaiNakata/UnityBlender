@@ -38,7 +38,7 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/166342450-e2e1bdf7-054c-48ca-b812-bdd83b3eac34.png)
 ![image](https://user-images.githubusercontent.com/22285365/166343208-d7e6044d-4fa2-4ccd-95df-505bd438778f.png)
 
-## 犬（https://www.youtube.com/watch?v=k5x1I6gwpiU）
+## ローポリの犬（https://www.youtube.com/watch?v=k5x1I6gwpiU）
 （ボーン：https://www.youtube.com/watch?v=7DClegc4SZ0&t=364s）
 
 （IK：https://www.youtube.com/watch?v=SXD0rmpYIWo）
@@ -56,6 +56,9 @@ Blenderで作ったモデルをUnityへインポートする練習
 （背伸びするアニメーション：https://user-images.githubusercontent.com/22285365/176420835-7602f785-59f3-4e75-b4ad-ebd24c038a55.mp4）
 
 ![image](https://user-images.githubusercontent.com/22285365/176420785-afa01c43-e667-4bfb-939d-4357ff9e8d1c.png)
+
+## ローポリの人（https://www.youtube.com/watch?v=s3CSUW81PRI）
+
 
 # 参考URL
 - モデリングの勉強の進め方
