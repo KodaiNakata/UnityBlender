@@ -59,6 +59,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 
 ## ローポリの人（https://www.youtube.com/watch?v=s3CSUW81PRI）
 
+（https://www.youtube.com/watch?v=h1mMQxUnhIo）
+
 
 # 参考URL
 - モデリングの勉強の進め方
