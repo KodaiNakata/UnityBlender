@@ -59,9 +59,11 @@ Blenderで作ったモデルをUnityへインポートする練習
 
 ## ロボット（https://www.youtube.com/watch?v=7DClegc4SZ0）
 
-（https://www.youtube.com/watch?v=SXD0rmpYIWo&t=3s）
+（IK：https://www.youtube.com/watch?v=SXD0rmpYIWo&t=3s）
 
-（https://www.youtube.com/watch?v=02yENu82rIU&t=212s）
+（歩く：https://www.youtube.com/watch?v=02yENu82rIU&t=212s）
+
+（走る：https://www.youtube.com/watch?v=RJwhcHIwOoE）
 
 
 # 参考URL
