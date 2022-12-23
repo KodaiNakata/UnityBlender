@@ -71,6 +71,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 
 （踊る：動画見ずに作成）
 
+![image](https://user-images.githubusercontent.com/22285365/209349266-4edfed01-4a53-4369-8b8b-6dc15c5a0a8e.png)
+
 # 参考URL
 - モデリングの勉強の進め方
 
