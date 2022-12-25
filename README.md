@@ -74,6 +74,8 @@ Blenderで作ったモデルをUnityへインポートする練習
 ![image](https://user-images.githubusercontent.com/22285365/209349266-4edfed01-4a53-4369-8b8b-6dc15c5a0a8e.png)
 ![image](https://user-images.githubusercontent.com/22285365/209414662-801ce03f-f83a-4a8b-8bd3-6cd7cfe99bab.png)
 
+## ローポリの人（https://cgbox.jp/2021/11/04/blender-lowpoly-modeling/#index_id9）
+
 # 参考URL
 - モデリングの勉強の進め方
 
